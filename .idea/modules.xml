@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Spring-00-LooselyCoupled/Spring-00-LooselyCoupled.iml" filepath="$PROJECT_DIR$/Spring-00-LooselyCoupled/Spring-00-LooselyCoupled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-00-TightlyCoupled/Spring-00-TightlyCoupled.iml" filepath="$PROJECT_DIR$/Spring-00-TightlyCoupled/Spring-00-TightlyCoupled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-01-SpringContainer/Spring-01-SpringContainer.iml" filepath="$PROJECT_DIR$/Spring-01-SpringContainer/Spring-01-SpringContainer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jd-spring/Spring-02-DI-Construction/Spring-02-DI-Construction.iml" filepath="$PROJECT_DIR$/../jd-spring/Spring-02-DI-Construction/Spring-02-DI-Construction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jd-spring/Spring-02-DI-Setterinjection/Spring-02-DI-Setterinjection.iml" filepath="$PROJECT_DIR$/../jd-spring/Spring-02-DI-Setterinjection/Spring-02-DI-Setterinjection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jd-spring/Spring-03-BeanScope-Singleton-Prototype/Spring-03-BeanScope-Singleton-Prototype.iml" filepath="$PROJECT_DIR$/../jd-spring/Spring-03-BeanScope-Singleton-Prototype/Spring-03-BeanScope-Singleton-Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jd-spring/Spring-04-BeanLifeCycle-InitAndDestroyMethod/Spring-04-BeanLifeCycle-InitAndDestroyMethod.iml" filepath="$PROJECT_DIR$/../jd-spring/Spring-04-BeanLifeCycle-InitAndDestroyMethod/Spring-04-BeanLifeCycle-InitAndDestroyMethod.iml" />
+    </modules>
+  </component>
+</project>
